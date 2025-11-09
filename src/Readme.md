@@ -1,5 +1,5 @@
 # EJERCICIO GIT
- ## Primeros pasos: Configuración
+ ## Primeros pasos: Configuración local
 
 Creacion del repositorio local a partir del repositorio remoto de ejemplo suministrado en los apuntes.
 
@@ -43,4 +43,6 @@ Trasteando por la red se sugería que la solución sería:
 
 Desconozco si es una buena práctica, pero funcionó.
 
-Tras esta configuración se realizan los primeros commits para añandir los archivos al repositorio local y añadir este readme.
+Tras esta configuración se realizan los primeros commits para añandir los archivos base al repositorio local y añadir este readme.
+
+## Creación del repositorio remoto y sincronización con local
