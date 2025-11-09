@@ -59,3 +59,6 @@ Creo la carpeta contents para añadir capturas de pantalla y se actualiza el rea
 1. Crea la rama development.
 2. Cambiamos a development realizamos estos cambios
 3. Cuando intetemos mergear va a haber conflictos porque en ambas ramas hemos modificado el readme. Nos interesa mantener ambos.
+
+**Cambios desde main**
+**Cambios desde development**
